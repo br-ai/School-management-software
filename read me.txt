@@ -1,0 +1,8 @@
+fonctionnement du programme
+nombre de matiere fixé a 04 matieres
+ MATIERE
+
+code 0 : mathematique (coefficient 5)
+code 1 : physique (coefficient 5)
+code 2 : anglais (coefficient 3)
+code 3 : culture (coefficient 2)

@@ -1,0 +1,2 @@
+cni;nom;prenom;age;moyenne;decision
+9;brondon stael;sitedjeya fotso;24;17.2;1

@@ -1,0 +1,2 @@
+cni;nom;prenom;moyenne
+9;brondon stael;sitedjeya fotso;17.2

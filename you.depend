@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1592056757 source:c:\users\lambo cited\desktop\you\candidat.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"Candidat.h"
+
+1592055919 c:\users\lambo cited\desktop\you\candidat.h
+	<vector>
+
+1592055919 source:c:\users\lambo cited\desktop\you\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Candidat.h"
+
+1591976913 c:\users\lambo cited\desktop\you\note.h
+
+1591976913 source:c:\users\lambo cited\desktop\you\note.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"Note.h"
+
+1591998841 source:c:\users\lambo cited\desktop\you\matiere.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"Matiere.h"
+
+1591998705 c:\users\lambo cited\desktop\you\matiere.h
+	<string.h>
+
+1593866369 source:c:\users\lambo cited\documents\you\candidat.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"Candidat.h"
+
+1593866369 c:\users\lambo cited\documents\you\candidat.h
+	<vector>
+
+1593866707 source:c:\users\lambo cited\documents\you\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Candidat.h"
+
+1593879913 source:c:\users\lambo cited\documents\you_version2.0\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Candidat.h"
+	"Admis.h"
+
+1593879913 c:\users\lambo cited\documents\you_version2.0\candidat.h
+	<vector>
+
+1593880150 source:c:\users\lambo cited\documents\you_version2.0\admis.cpp
+	"Admis.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+
+1593879913 c:\users\lambo cited\documents\you_version2.0\admis.h
+	"Candidat.h"
+
+1593886890 source:c:\users\lambo cited\documents\you_version2.0\candidat.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	"Candidat.h"
+	"Admis.h"
+
+1595440639 source:c:\users\lambo cited\documents\you_version3.0\candidat.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits>
+	"Candidat.h"
+	"Admis.h"
+
+1595431419 c:\users\lambo cited\documents\you_version3.0\candidat.h
+	<vector>
+
+1595431419 c:\users\lambo cited\documents\you_version3.0\admis.h
+	"Candidat.h"
+
+1595437934 source:c:\users\lambo cited\documents\you_version3.0\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits>
+	"Candidat.h"
+	"Admis.h"
+
+1595437557 source:c:\users\lambo cited\documents\you_version3.0\admis.cpp
+	"Admis.h"
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<vector>
+
